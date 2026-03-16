@@ -18,3 +18,5 @@ bmi HW = https://colab.research.google.com/drive/1I641gjaIWdmNxC0O7SXZvpKY7B1-fH
 number guesser HW = https://colab.research.google.com/drive/13KlkTGBpJRKfuBDadxg0eNKRX2I66SWu?usp=sharing
 
 kaggle titanic = https://www.kaggle.com/code/aydinegitmen/titanic-notebook
+
+car-price-predict-hg = https://huggingface.co/spaces/aydinegitmen/car-price/tree/main
