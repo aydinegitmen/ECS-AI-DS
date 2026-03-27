@@ -22,3 +22,6 @@ kaggle titanic = https://www.kaggle.com/code/aydinegitmen/titanic-notebook
 car-price-predict-hg = https://huggingface.co/spaces/aydinegitmen/car-price/tree/main
 
 slider app = https://colab.research.google.com/drive/19qY8vPjKlPxa93cuRrfFuILYtdv9JJtI?usp=sharing
+
+image downloader = https://colab.research.google.com/drive/14UID1O_FjTZhjdD8kCmbBc6-8JK9ZECx?usp=sharing
+
