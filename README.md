@@ -20,3 +20,5 @@ number guesser HW = https://colab.research.google.com/drive/13KlkTGBpJRKfuBDadxg
 kaggle titanic = https://www.kaggle.com/code/aydinegitmen/titanic-notebook
 
 car-price-predict-hg = https://huggingface.co/spaces/aydinegitmen/car-price/tree/main
+
+slider app = https://colab.research.google.com/drive/19qY8vPjKlPxa93cuRrfFuILYtdv9JJtI?usp=sharing
