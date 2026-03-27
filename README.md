@@ -26,6 +26,6 @@ image downloader = https://colab.research.google.com/drive/14UID1O_FjTZhjdD8kCmb
 
 online-form = https://colab.research.google.com/drive/1O0ItqzRuwimcATuElR52_DD6-03KuL-c?usp=sharing
 
-pandas veri cekme = https://colab.research.google.com/drive/1RN2F8fe4lc6zNUAr8JMk7zS9RpLXKdHx?usp=sharing
+pandas extract data = https://colab.research.google.com/drive/1RN2F8fe4lc6zNUAr8JMk7zS9RpLXKdHx?usp=sharing
 
 corona racing charts = https://colab.research.google.com/drive/1jtNcHaUV_QVCF-6hELEX4U_Ysy5gRsPG?usp=sharing
