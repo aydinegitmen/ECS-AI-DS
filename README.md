@@ -26,3 +26,5 @@ slider app = https://colab.research.google.com/drive/19qY8vPjKlPxa93cuRrfFuILYtd
 image downloader = https://colab.research.google.com/drive/14UID1O_FjTZhjdD8kCmbBc6-8JK9ZECx?usp=sharing
 
 online-form = https://colab.research.google.com/drive/1O0ItqzRuwimcATuElR52_DD6-03KuL-c?usp=sharing
+
+pandas veri cekme = https://colab.research.google.com/drive/1RN2F8fe4lc6zNUAr8JMk7zS9RpLXKdHx?usp=sharing
