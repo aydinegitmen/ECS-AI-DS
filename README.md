@@ -36,4 +36,4 @@ google-trends-hf https://colab.research.google.com/drive/1iOtW8sxRzgV2qxfW8qIvxA
 
 finance-data= https://colab.research.google.com/drive/1RJZu-DBEwg3LVbmASRCSH_NGj6nzFbwr?usp=sharing
 
-free api =https://www.alphavantage.co/documentation/
+free finance api =https://www.alphavantage.co/documentation/
