@@ -31,3 +31,5 @@ pandas extract data = https://colab.research.google.com/drive/1RN2F8fe4lc6zNUAr8
 corona racing charts = https://colab.research.google.com/drive/1jtNcHaUV_QVCF-6hELEX4U_Ysy5gRsPG?usp=sharing
 
 google trends= https://colab.research.google.com/drive/16QJAoFHkciGoalAHWG5weGZKmGmdXRxa?usp=sharing
+
+google-trends-hf https://colab.research.google.com/drive/1iOtW8sxRzgV2qxfW8qIvxApOLcKjFvmq?usp=sharing
