@@ -35,3 +35,5 @@ google trends= https://colab.research.google.com/drive/16QJAoFHkciGoalAHWG5weGZK
 google-trends-hf https://colab.research.google.com/drive/1iOtW8sxRzgV2qxfW8qIvxApOLcKjFvmq?usp=sharing
 
 finance-data= https://colab.research.google.com/drive/1RJZu-DBEwg3LVbmASRCSH_NGj6nzFbwr?usp=sharing
+
+free api =https://www.alphavantage.co/documentation/
