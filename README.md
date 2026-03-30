@@ -29,3 +29,5 @@ online-form = https://colab.research.google.com/drive/1O0ItqzRuwimcATuElR52_DD6-
 pandas extract data = https://colab.research.google.com/drive/1RN2F8fe4lc6zNUAr8JMk7zS9RpLXKdHx?usp=sharing
 
 corona racing charts = https://colab.research.google.com/drive/1jtNcHaUV_QVCF-6hELEX4U_Ysy5gRsPG?usp=sharing
+
+google trends= https://colab.research.google.com/drive/16QJAoFHkciGoalAHWG5weGZKmGmdXRxa?usp=sharing
