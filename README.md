@@ -41,3 +41,13 @@ free finance api =https://www.alphavantage.co/documentation/
 weather api app = https://colab.research.google.com/drive/1tc_fAnboFRiBidQFOJQdX4Hdu_BGwmy9?usp=sharing
 
 churn app = https://colab.research.google.com/drive/16BGlkBdqkZtIYg4CTfCkfvKnmK4XRLK1?usp=sharing
+
+ai tools directory demo: https://ai.studio/apps/0d352a81-3817-473e-8a36-c5f65a7f5f63?fullscreenApplet=tr
+
+business website demo(baklava): https://ai.studio/apps/2a89d382-0932-430e-8108-9fb17617e19a?fullscreenApplet=true
+
+time-series: https://colab.research.google.com/drive/1UGTiN7Wz8IfeNmkHNynn5sDlJUluQ9Ms?usp=sharing
+
+weather app demo: https://ai.studio/apps/004bd552-28d9-4223-884c-823ae70d63bf
+
+video-chat-demo: https://ai.studio/apps/de5bfbeb-a443-49f6-847f-61df4d13b336
