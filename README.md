@@ -51,3 +51,5 @@ time-series: https://colab.research.google.com/drive/1UGTiN7Wz8IfeNmkHNynn5sDlJU
 weather app demo: https://ai.studio/apps/004bd552-28d9-4223-884c-823ae70d63bf
 
 video-chat-demo: https://ai.studio/apps/de5bfbeb-a443-49f6-847f-61df4d13b336
+
+suggestions-systems: https://colab.research.google.com/drive/1eGnIJlqXjF74dfpYmZe33jPBVpStZe8C?usp=sharing
