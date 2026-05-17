@@ -55,3 +55,23 @@ video-chat-demo: https://ai.studio/apps/de5bfbeb-a443-49f6-847f-61df4d13b336
 suggestions-systems: https://colab.research.google.com/drive/1eGnIJlqXjF74dfpYmZe33jPBVpStZe8C?usp=sharing
 
 open-cv-image-process: https://colab.research.google.com/drive/1lHrzwpsQjPSk5yVpItkt1sTbUKif_EIV?usp=sharing
+
+opencv webcam=
+
+deeplearning (mnist)= https://colab.research.google.com/drive/1RoSmOIAZhCvsax4P8h3TBwRAeQnNS9Jt?usp=sharing
+
+Deep Learning KERAS ANN - Linear Regression Karşışatırması= https://colab.research.google.com/drive/1RoSmOIAZhCvsax4P8h3TBwRAeQnNS9Jt?usp=sharing
+
+NLP- dogal dil isleme temelleri=https://colab.research.google.com/drive/1HdcNHvh9j8naiWibyVxpE3fQIiMlkcxp?usp=sharing
+
+nlp-youtube metin siniflandirici= https://colab.research.google.com/drive/1DmB6xUAxZniNG6IBH-AnkaYnRyQ6U2UO?usp=sharing
+
+kelime bulutu=https://colab.research.google.com/drive/1i3n0dMtoCWXwn-4nt4QMN3TaThSyheTd?usp=sharing
+
+hf-models-transformers= https://colab.research.google.com/drive/1beLVgqZ74GkQCh-MwYupaGUcJ970uZ7n?usp=sharing
+
+hf translate= https://colab.research.google.com/drive/1PQsxEQMhdl7fBv7bmf2_GlOTeqKZUO-O?usp=sharing
+
+hf object detection= https://colab.research.google.com/drive/1N-8EiXdQpKZK38pe2EYupTVFQjbW4wCD?usp=sharing
+
+hf model kullanimi object detention= https://colab.research.google.com/drive/1CnRleJuMZbZ6bw-M-o_5C9QSGB0YRAav?usp=sharing
